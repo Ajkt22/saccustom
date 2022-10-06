@@ -221,7 +221,7 @@
         }
 
     }
-    customElements.define("com-fd-djaja-sap-sac-pdfviewer", PDFViewer);
+    customElements.define("com-sap-sac-pdfviewer", PDFViewer);
 
     // UTILS
     function loadthis(that) {

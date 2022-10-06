@@ -128,5 +128,5 @@
             }
         }
     }
-    customElements.define("com-fd-djaja-sap-sac-pdfviewer-aps", PDFViewerAps);
+    customElements.define("com-sap-sac-pdfviewer-aps", PDFViewerAps);
 })();
